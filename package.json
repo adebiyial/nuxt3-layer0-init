@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "nuxt3-layer0-init",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@layer0/cli": "^4.8.0",
+    "@layer0/core": "^4.8.0",
+    "@layer0/devtools": "^4.8.0",
+    "@layer0/prefetch": "^4.8.0",
+    "nuxt3": "latest"
+  }
+}
